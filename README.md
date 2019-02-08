@@ -1,4 +1,4 @@
-# Gender-Classifier-Using-Voice
+# Gender-Recognition-System
 
 audio source (10.4gb) = http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/Audio/Main/16kHz_16bit/
 
@@ -16,5 +16,5 @@ audio source (10.4gb) = http://www.repository.voxforge1.org/downloads/SpeechCorp
 
 ### Steps
  1. Download the full <b>"ML_final"</b> folder only at a specific path (preferred C:\ )
- 2. Open 'live_testing.py' and set the path to your downloaded folder (path="C:\Gender-Recognition-System//") 
+ 2. Open 'live_testing.py' and set the path to your downloaded folder (path="C:\ML_final//") 
  3. Run the 'live_testing.py' file and test your results.
