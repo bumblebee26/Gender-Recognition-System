@@ -12,6 +12,7 @@ This has been created for distributing and testing on different languages,accent
  6. scipy
  7. numpy
  8. wave
+ 9. pitch
 
 ### Steps
  1. Download the full <b>"ML_final"</b> folder only at a specific path (preferred C:\ )
