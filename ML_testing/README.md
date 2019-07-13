@@ -2,7 +2,7 @@
 
 number of features = 111
 
-train size = 7783
+train size = 7783  
 
 test size = 159
 			
