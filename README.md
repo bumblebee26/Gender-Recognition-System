@@ -11,7 +11,7 @@ audio source (10.4gb) = http://www.repository.voxforge1.org/downloads/SpeechCorp
  5. pandas
  6. scipy
  7. numpy
- 8. wave
+ 8. wave     
 
 ### Steps
  1. Download the full <b>"ML_final"</b> folder only at a specific path (preferred C:\ )
